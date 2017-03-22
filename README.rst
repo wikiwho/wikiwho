@@ -20,7 +20,7 @@ Contact
 =======
 * Fabian Floeck: fabian.floeck[.]gesis.org
 * Maribel Acosta: maribel.acosta[.]kit.edu
-* Fabian Floeck: kenan.erdogan[.]gesis.org
+* Kenan Erdogan: kenan.erdogan[.]gesis.org
 
 License
 =======
