@@ -18,7 +18,7 @@ Install using `pip`::
 
 Running WikiWho
 ===============
-You can check example scripts under `WikiWho/wikiwho/examples <https://github.com/wikiwho/WikiWho/tree/master/wikiwho/examples>`_ to see how to run WikiWho.
+You can check example scripts under `WikiWho/WikiWho/examples <https://github.com/wikiwho/WikiWho/tree/master/WikiWho/examples>`_ to see how to run WikiWho.
 
 Contact
 =======
