@@ -8,13 +8,13 @@ Installation Requirements
 =========================
 WikiWho runs both on python 2 and 3.
 
-`requests <http://docs.python-requests.org/en/master/>`_ package is required to get revision meta data and text from wikipedia api.
+`requests <http://docs.python-requests.org/en/master/>`_ package is required to get revision meta data and text from Wikipedia api.
 
 `mwxml <https://github.com/mediawiki-utilities/python-mwxml>`_ package is required to get revision meta data and text from xml dumps. This package runs on only python 3.
 
 Running WikiWho
 ===============
-You can check example scripts under `WikiWho/wikiwho/examples` to see how to run WikiWho.
+You can check example scripts under `WikiWho/wikiwho/examples <https://github.com/wikiwho/WikiWho/tree/master/wikiwho/examples>`_ to see how to run WikiWho.
 
 Contact
 =======
