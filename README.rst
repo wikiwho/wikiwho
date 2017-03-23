@@ -12,6 +12,10 @@ WikiWho runs both on python 2 and 3.
 
 `mwxml <https://github.com/mediawiki-utilities/python-mwxml>`_ package is required to get revision meta data and text from xml dumps. This package runs on only python 3.
 
+Install using `pip`::
+
+    pip install git+git://github.com/wikiwho/WikiWho.git@master#egg=WikiWho
+
 Running WikiWho
 ===============
 You can check example scripts under `WikiWho/wikiwho/examples <https://github.com/wikiwho/WikiWho/tree/master/wikiwho/examples>`_ to see how to run WikiWho.
