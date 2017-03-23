@@ -1,8 +1,8 @@
-wikiwho
+WikiWho
 =======
 An algorithm to identify authorship and editor interactions in Wiki revisioned content.
 
-(also check out our API: https://api.wikiwho.net/api/v1.0.0-beta/ )
+Also check out `WikiWho API <https://api.wikiwho.net/api/v1.0.0-beta/>`_
 
 Installation Requirements
 =========================
@@ -12,9 +12,9 @@ WikiWho runs both on python 2 and 3.
 
 `mwxml <https://github.com/mediawiki-utilities/python-mwxml>`_ package is required to get revision meta data and text from xml dumps. This package runs on only python 3.
 
-Running wikiwho
+Running WikiWho
 ===============
-You can check example scripts under `WikiWho/wikiwho/examples` to see how to run wikiwho.
+You can check example scripts under `WikiWho/wikiwho/examples` to see how to run WikiWho.
 
 Contact
 =======
