@@ -1,8 +1,8 @@
 WikiWho
 =======
-An algorithm to identify authorship and editor interactions in Wiki revisioned content.
+An algorithm to identify the revision origin of - and all changes ever applied to - the tokens of a revisioned Wiki document. This enables, e.g., detecting authorship and editor interactions.
 
-Also check out `WikiWho API <https://api.wikiwho.net/api/v1.0.0-beta/>`_
+Also check out the `WikiWho API <https://api.wikiwho.net/api/v1.0.0-beta/>`_ for current data from Wikipedia. 
 
 Installation Requirements
 =========================
