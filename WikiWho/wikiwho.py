@@ -25,8 +25,8 @@ PREVIOUS_LENGTH = 1000
 CURR_LENGTH = 1000
 FLAG = "move"
 UNMATCHED_PARAGRAPH = 0.0
-WORD_DENSITY = 10
-WORD_LEN = 100
+TOKEN_DENSITY_LIMIT = 20
+TOKEN_LEN = 100
 
 
 class Wikiwho:
@@ -607,7 +607,7 @@ class Wikiwho:
         # spam detection.
         if possible_vandalism:
             token_density = compute_avg_word_freq(text_curr)
-            if token_density > WORD_DENSITY:
+            if token_density > TOKEN_DENSITY_LIMIT:
                 return matched_words_prev, possible_vandalism
             else:
                 possible_vandalism = False
