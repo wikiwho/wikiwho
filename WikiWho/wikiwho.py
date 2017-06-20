@@ -677,7 +677,6 @@ class Wikiwho:
                     pos += 1
 
                 if not curr_matched:
-                    # if diff returns a word as '? ...'
                     word_curr = Word()
                     word_curr.value = word
                     word_curr.token_id = self.token_id
