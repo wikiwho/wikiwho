@@ -4,15 +4,15 @@ An algorithm to identify the revision origin of - and all changes ever applied t
 
 Also check out the `WikiWho API <https://api.wikiwho.net/api/v1.0.0-beta/>`_ for current data from Wikipedia. 
 
-Installation Requirements
-=========================
+Requirements and Installation
+=============================
 WikiWho runs both on python 2 and 3.
 
 `requests <http://docs.python-requests.org/en/master/>`_ package is required to get revision meta data and text from Wikipedia api.
 
 `mwxml <https://github.com/mediawiki-utilities/python-mwxml>`_ package is required to get revision meta data and text from xml dumps. This package runs on only python 3.
 
-Install using `pip`::
+Install WikiWho package using `pip`::
 
     pip install git+git://github.com/wikiwho/WikiWho.git@master#egg=WikiWho
 
