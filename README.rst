@@ -29,3 +29,6 @@ Contact
 License
 =======
 This work is licensed under MIT.
+
+***Developed at Karlsruhe Institute of Technology and GESIS - Leibniz Institute for the Social Sciences***
+
