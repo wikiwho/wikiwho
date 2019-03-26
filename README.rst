@@ -14,7 +14,7 @@ WikiWho runs both on python 2 and 3.
 
 Install WikiWho package using `pip`::
 
-    pip install -r WikiWho
+    pip install WikiWho
 
 Running WikiWho
 ===============
