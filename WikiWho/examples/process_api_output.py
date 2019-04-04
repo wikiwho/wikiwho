@@ -14,7 +14,7 @@ def process_api_output(page_id):
     wikiwho_obj = process_api_output(page_id)
     print(wikiwho_obj.title)
     print(wikiwho_obj.ordered_revisions)
-    for token in iter_rev_tokens(wikiwho_obj.revisions[wikiwho_obj.ordered_revisions[0]]):
+    for token in iter_rev_tokens(wikiwho_obj.revisions[wikiwho_obj.ordered_revisions[-1]]):
         print(token.value, token.token_id, token.origin_rev_id)
 
     :param page_id: Page id of the article which is  going to be analysed.
